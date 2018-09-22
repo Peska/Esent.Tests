@@ -1,4 +1,5 @@
 ﻿using System;
+using Microsoft.Isam.Esent.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace Esent.Tests
@@ -9,6 +10,7 @@ namespace Esent.Tests
 		[TestMethod]
 		public void TestMethod1()
 		{
+
 		}
 	}
 }
